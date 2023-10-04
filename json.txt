@@ -1,0 +1,13 @@
+{
+    "name": "John",
+    "age": 30,
+    "address": {
+        "street": "123 Main St",
+        "city": "New York",
+        "postal_code": "10001"
+    },
+    "friends": [
+        {"name": "Alice", "age": 25},
+        {"name": "Bob", "age": 32}
+    ]
+}
